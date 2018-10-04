@@ -1,0 +1,15 @@
+{
+   "progress": 100,
+   "title": "Do Good",
+   "days_left": "1 DAYS LEFT",
+   "goal": "25,000",
+   "collected_goal": "Collected of 25,000 goal",
+   "missions": [
+      {
+         "max": 5000,
+         "current": 5000,
+         "title": "Collect 5000 Medals",
+         "reward": 200
+      }
+   ]
+}
