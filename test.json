@@ -1,0 +1,28 @@
+{
+   "progress": 40,
+   "title": "Do Good",
+   "days_left": "4 DAYS LEFT",
+   "goal": "10,000",
+   "collected_goal": "Collected of 25,000 goal",
+   "missions": [
+      {
+         "max": 5000,
+         "current": 5000,
+         "title": "Collect 5000 Medals",
+         "reward": 200
+      },
+      {
+         "max": 3,
+         "current": 2,
+         "title": "Invite 3 Friends",
+         "reward": 500
+      },
+      {
+         "max": 10,
+         "current": 10,
+         "title": "Kill 10 Bosses",
+         "reward": 1000,
+         "success_message": "COLLECT"
+      }
+   ]
+}
