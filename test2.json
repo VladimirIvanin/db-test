@@ -27,7 +27,8 @@
          "max": 1,
          "current": 1,
          "title": "First project",
-         "reward": 50
+         "reward": 50,
+         "success_message": "SUCCESS"
       },
       {
          "max": 10,
