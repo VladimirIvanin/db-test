@@ -1,0 +1,40 @@
+{
+   "progress": 40,
+   "title": "Do Good",
+   "days_left": "4 DAYS LEFT",
+   "goal": "10,000",
+   "collected_goal": "Collected of 25,000 goal",
+   "missions": [
+      {
+         "max": 5000,
+         "current": 1000,
+         "title": "Collect 5000 Medals",
+         "reward": 200
+      },
+      {
+         "max": 3,
+         "current": 1,
+         "title": "Invite 3 Friends",
+         "reward": 500
+      },
+      {
+         "max": 10,
+         "current": 10,
+         "title": "Project execution on time",
+         "reward": 500
+      },
+      {
+         "max": 1,
+         "current": 1,
+         "title": "First project",
+         "reward": 50
+      },
+      {
+         "max": 10,
+         "current": 0,
+         "title": "Kill 10 Bosses",
+         "reward": 1000,
+         "success_message": "COLLECT"
+      }
+   ]
+}
